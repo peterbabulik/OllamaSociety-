@@ -7,6 +7,7 @@ Features:
 - Simple JSON-based memory system
 - No predetermined rules - true emergent behavior
 - Minimal 3-file structure for easy modification
+(index.js agents.js + society_memory.json will be created after first run)
 - Built with Node.js + Ollama
 
 ## Quick Start
